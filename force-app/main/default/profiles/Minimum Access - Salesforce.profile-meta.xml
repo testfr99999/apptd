@@ -3581,10 +3581,17 @@
         <flow>Update_Contacts_Address</flow>
     </flowAccesses>
     <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+        <recordType>Account.Test</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>AccountContactRole-Account Contact Role Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Assessment_Provider__c-Assessment Provider Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CardPaymentMethod-Présentation Mode de paiement par carte</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ContactPointTypeConsent-Contact Point Type Consent Layout</layout>
@@ -3596,7 +3603,37 @@
         <layout>DataUsePurpose-Data Use Purpose Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>DelegatedAccount-Présentation du compte géré externe</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>DigitalWallet-Présentation Portefeuille numérique</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Knowledge__kav-Knowledge Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Payment-Présentation Paiement</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>PaymentAuthorization-Présentation Autorisation de paiement</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>PaymentGateway-Présentation Passerelle de paiement</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>PaymentGatewayLog-Présentation Journal de passerelle de paiement</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>PaymentGroup-Présentation Groupe de paiement</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ProcessException-Présentation Exception de traitement</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Refund-Présentation Remboursement</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>RefundLinePayment-Présentation Paiement de la ligne de remboursement</layout>
     </layoutAssignments>
     <pageAccesses>
         <apexPage>AnswersHome</apexPage>
@@ -3742,6 +3779,11 @@
         <apexPage>UnderConstruction</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Account.Test</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
