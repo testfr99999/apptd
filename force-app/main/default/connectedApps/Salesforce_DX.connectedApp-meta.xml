@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>testmail2casezs@gmail.com</contactEmail>
+    <label>Salesforce DX</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIDfjCCAmYCCQCoFuFHvU+1DzANBgkqhkiG9w0BAQsFADCBgDELMAkGA1UEBhMCRlIxCzAJBgNVBAgMAllWMRAwDgYDVQQHDAdQbGFpc2lyMQwwCgYDVQQKDANBQU0xDDAKBgNVBAsMA0FBTTEMMAoGA1UEAwwDQUFNMSgwJgYJKoZIhvcNAQkBFhl0ZXN0bWFpbDJjYXNlenNAZ21haWwuY29tMB4XDTE5MTAzMDEwMDI0MloXDTIwMTAyOTEwMDI0MlowgYAxCzAJBgNVBAYTAkZSMQswCQYDVQQIDAJZVjEQMA4GA1UEBwwHUGxhaXNpcjEMMAoGA1UECgwDQUFNMQwwCgYDVQQLDANBQU0xDDAKBgNVBAMMA0FBTTEoMCYGCSqGSIb3DQEJARYZdGVzdG1haWwyY2FzZXpzQGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANZj5qnV1NeQl4lfCwOrEo6uTMW1eTo6ly8G4pF+f5l88bxBTDdpEB0dtqp/d52EPvZRN5LewEcEVDOWPYSTX1Yo275KuEX9jW0+ayH1Ru7NL3ctKPFa6s7cKQPCrgUwkzs3gmDMkgHKreZ23i38XxOxzQ+Dx5tYnWi3KsjViF+jiIQQS7AZ6QWW9vvhdoiKi2BIFTq2Gn3Om721oMqW41cA0//MVznrQfW3cGqu4wL9gUyYa7ZOqmhZOjYsx4OVPIrQ2Q10oGlWB1b5U4cJnJYPHiP2VvGZx8fConVK29OMafhIbbFw148Cj1VQuplVg8EBFOIiMMG7Hes3aLitzbECAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAbNIPNuQ/t57RWbepw8KqVSeDuAAvCEe/DNsp7iBooHfDsHmvQcBhVk2+lurBq5Q6ydS/jTkLlDkEIyn8MuKMD2mCQoYpQEBUYnybG7wH+dNFkkXlkaYAsHmMPhKQi8GOaTZ9Qy83V9Bpv4Zbf8YVlJF0fZKtjLkvDlRzo0OqLMwYeYx28fM0ttm1rbee5Slz8lFDAuRf+WWKX6gBQTN2aW1aHGpcoeqlMVTnx6Y3xtkpnOO7aIZPAb9szc4xxdq4l0pGgX8AtgUYpEp8vZkj+yHVENGmVdmKx7tWD3VcpW06MAbu0uSH85wPyUtpaf9gRLxVJxyPAiBgCupNkm9ZtQ==</certificate>
+        <consumerKey>3MVG98_Psg5cppyaUO3t109.VYMImW_sbbygVubnjVcirYaQ22RojMjt.B9qWpjYHKxZaXzYB4bv8539PUHVF</consumerKey>
+        <isAdminApproved>true</isAdminApproved>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+    <profileName>Partner AAM</profileName>
+    <profileName>Standard User</profileName>
+    <profileName>System Administrator</profileName>
+    <profileName>Marketing User</profileName>
+    <profileName>Contract Manager</profileName>
+    <profileName>Analytics Cloud Security User</profileName>
+    <profileName>Chatter Free User</profileName>
+    <profileName>Analytics Cloud Integration User</profileName>
+    <profileName>Custom: Marketing Profile</profileName>
+    <profileName>Custom: Support Profile</profileName>
+    <profileName>Read Only</profileName>
+    <profileName>Basic Account User</profileName>
+    <profileName>Custom: Sales Profile</profileName>
+    <profileName>Authenticated Website</profileName>
+    <profileName>Work.com Only User</profileName>
+    <profileName>Customer Community Login User</profileName>
+    <profileName>Cross Org Data Proxy User</profileName>
+    <profileName>Customer Community Plus User</profileName>
+    <profileName>Account Reviewer</profileName>
+    <profileName>Silver Partner User</profileName>
+    <profileName>Customer Portal Manager Custom</profileName>
+    <profileName>Identity User</profileName>
+    <profileName>Standard Platform User</profileName>
+    <profileName>Chatter Moderator User</profileName>
+    <profileName>Partner Community Login User</profileName>
+    <profileName>Customer Community User</profileName>
+    <profileName>Authenticated Website</profileName>
+    <profileName>Solution Manager</profileName>
+    <profileName>Chatter External User</profileName>
+    <profileName>Partner Community User</profileName>
+    <profileName>Customer Community Plus Login User</profileName>
+    <profileName>Partner App Subscription User</profileName>
+</ConnectedApp>

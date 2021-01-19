@@ -1,0 +1,9 @@
+{
+  "appPageId" : "a6bc2dd0-ed19-40ba-8dd2-040a6eede73a",
+  "id" : "e54f9e5d-349d-4b8a-8c8d-5758bf3bd733",
+  "label" : "testaam2",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-testaam2",
+  "type" : "route",
+  "urlPrefix" : "testaam2"
+}

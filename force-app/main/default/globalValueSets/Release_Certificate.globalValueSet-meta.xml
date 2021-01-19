@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>EASA</fullName>
+        <default>false</default>
+        <label>EASA (Europe)</label>
+    </customValue>
+    <customValue>
+        <fullName>FAA</fullName>
+        <default>false</default>
+        <label>FAA (USA)</label>
+    </customValue>
+    <customValue>
+        <fullName>TCCA</fullName>
+        <default>false</default>
+        <label>TCCA (Canada)</label>
+    </customValue>
+    <customValue>
+        <fullName>CAAC</fullName>
+        <default>false</default>
+        <label>CAAC (China)</label>
+    </customValue>
+    <customValue>
+        <fullName>CAAM</fullName>
+        <default>false</default>
+        <label>CAAM (Malaysia)</label>
+    </customValue>
+    <masterLabel>Release Certificate</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

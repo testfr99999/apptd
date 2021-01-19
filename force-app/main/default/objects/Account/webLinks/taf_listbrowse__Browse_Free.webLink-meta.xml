@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>taf_listbrowse__Browse_Free</fullName>
+    <availability>online</availability>
+    <description>Browse Classic Legacy version for Accounts</description>
+    <displayType>massActionButton</displayType>
+    <height>600</height>
+    <linkType>page</linkType>
+    <masterLabel>Browse (Legacy)</masterLabel>
+    <openType>sidebar</openType>
+    <page>taf_listbrowse__BrowseFreeAccount</page>
+    <protected>false</protected>
+    <requireRowSelection>true</requireRowSelection>
+</WebLink>
